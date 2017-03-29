@@ -1,6 +1,6 @@
-package by.htp.rom3a6.launch;
+package by.htp.city.launch;
 
-import by.htp.rom3a6.entity.*;
+import by.htp.city.entity.*;
 
 public class MainCity {
 

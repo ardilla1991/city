@@ -1,4 +1,4 @@
-package by.htp.rom3a6.entity;
+package by.htp.city.entity;
 
 public class City {
 	
